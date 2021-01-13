@@ -1,0 +1,10 @@
+/.metadata/
+/.mule/
+/.tooling/
+/.tooling-apps-cache/
+/product-api/target/
+/product-api-v0/target/
+/product-api-v1/target/
+/asssessment/target/
+/cap2front/target/
+/omni-channel-api/target/
